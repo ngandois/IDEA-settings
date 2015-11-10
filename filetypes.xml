@@ -1,0 +1,21 @@
+<application>
+  <component name="CommunityFileTypes" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping ext="jspx" type="XML" />
+      <mapping ext="tagx" type="XML" />
+    </extensionMap>
+    <setting name="fileTypeChangedCounter" value="1" />
+  </component>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <removed_mapping ext="zip" type="ARCHIVE" />
+      <mapping ext="mcd" type="Native" />
+      <mapping ext="zip" type="Native" />
+      <mapping pattern="ggg" type="PLAIN_TEXT" />
+      <mapping pattern="release-notes" type="PLAIN_TEXT" />
+      <mapping pattern="broker_viewer_CCSVolatility" type="PLAIN_TEXT" />
+      <mapping ext="execids" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
