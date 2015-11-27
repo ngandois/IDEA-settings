@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="File 'D:\ngandois\idea-ws\hsdk-root\hsquant\test\src\com\hsoft\quant\wrapper\data\WrpMatrixVolatilityTest.java'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File 'D:\ngandois\idea-ws\hsdk-root\hsquant\test\src\com\hsoft\quant\wrapper\data\WrpMatrixVolatilityTest.java'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,9 +16,9 @@
       <mask>*.mxml</mask>
       <mask>*.gradle</mask>
       <mask>build.gradle</mask>
-      <mask>*.scala</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
