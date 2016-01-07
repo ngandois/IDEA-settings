@@ -3,5 +3,6 @@
     <option name="COMPILE_SERVER_PORT" value="56127" />
     <option name="COMPILE_SERVER_ID" value="9145ea94-b159-4125-9901-289c3e23104d" />
     <option name="COMPILE_SERVER_SDK" value="1.7" />
+    <option name="COMPILE_SERVER_SHUTDOWN_IDLE" value="false" />
   </component>
 </application>
