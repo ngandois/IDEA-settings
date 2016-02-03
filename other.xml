@@ -140,6 +140,18 @@
     <option name="JIRA_PASSWORD_CRYPT" value="" />
     <option name="KEEP_JIRA_PASSWORD" value="false" />
   </component>
+  <component name="GlobalAntConfiguration">
+    <registeredAnts>
+      <ant>
+        <classpath>
+          <classpathItem dir="file://D:/ant_1.7.1/lib" />
+        </classpath>
+        <homeDir value="D:\ant_1.7.1" />
+        <name value="Apache Ant version 1.7.1" />
+        <version value="1.7.1" />
+      </ant>
+    </registeredAnts>
+  </component>
   <component name="ImportFilteringUsageViewSetting">
     <option name="SHOW_IMPORTS" value="false" />
   </component>
