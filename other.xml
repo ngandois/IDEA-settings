@@ -72,6 +72,15 @@
     <option name="KEEP_JIRA_PASSWORD" value="false" />
   </component>
   <component name="GlobalAntConfiguration">
+    <filtersTableLayout>
+      <item key="Width2" value="75" />
+      <item key="Width0" value="28" />
+      <item key="Width1" value="75" />
+    </filtersTableLayout>
+    <propertiesTableLayout>
+      <item key="Width0" value="15" />
+      <item key="Width1" value="15" />
+    </propertiesTableLayout>
     <registeredAnts>
       <ant>
         <classpath>
