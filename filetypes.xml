@@ -13,6 +13,7 @@
       <mapping ext="mcd" type="Native" />
       <mapping ext="zip" type="Native" />
       <mapping pattern="ggg" type="PLAIN_TEXT" />
+      <mapping pattern="broker_viewer_ContextUnderlyingMember" type="PLAIN_TEXT" />
       <mapping pattern="release-notes" type="PLAIN_TEXT" />
       <mapping pattern="broker_viewer_CCSVolatility" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
