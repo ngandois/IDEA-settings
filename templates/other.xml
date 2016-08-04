@@ -7,13 +7,7 @@
   </template>
   <template name="debug" value="if(log.isDebugEnabled()){&#10;    log.debug(&quot;&quot;);&#10;}" description="log.debug" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="JAVA_CODE" value="false" />
       <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="false" />
-      <option name="JAVA_DECLARATION" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
-      <option name="COMPLETION" value="false" />
     </context>
   </template>
 </templateSet>
