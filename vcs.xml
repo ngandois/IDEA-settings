@@ -28,6 +28,7 @@
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="F:\ngandois\Patch" />
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
     <option name="DETECT_PATCH_ON_THE_FLY" value="false" />
   </component>
 </application>
