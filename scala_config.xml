@@ -4,7 +4,4 @@
     <option name="INTRODUCE_FIELD_EXPLICIT_TYPE" value="false" />
     <option name="INTRODUCE_FIELD_VISIBILITY" value="PRIVATE" />
   </component>
-  <component name="TypeAwareHighlightingApplicationState">
-    <option name="SUGGEST_TYPE_AWARE_HIGHLIGHTING_ENABLED" value="true" />
-  </component>
 </application>
