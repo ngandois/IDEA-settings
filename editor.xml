@@ -8,10 +8,7 @@
     <option name="enableJavaToKotlinConversion" value="false" />
   </component>
   <component name="TodoConfiguration">
-    <pattern icon="important" useCustomColors="false" case-sensitive="true" pattern="\bNG\b.*">
-      <option name="FOREGROUND" value="a8c023" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="977ab" />
-    </pattern>
+    <pattern icon="important" case-sensitive="true" pattern="\bNG\b.*" />
+    <pattern pattern="\bngandois\b.*" />
   </component>
 </application>
