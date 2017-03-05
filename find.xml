@@ -1,9 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="File 'D:\ngandois\idea-ws\hsdk-root\hsquant\test\src\com\hsoft\quant\wrapper\data\WrpMatrixVolatilityTest.java'" />
     <option name="defaultScopeName" value="File 'D:\ngandois\idea-ws\hsdk-root\hsquant\test\src\com\hsoft\quant\wrapper\data\WrpMatrixVolatilityTest.java'" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File 'D:\ngandois\idea-ws\hsdk-root\hsquant\test\src\com\hsoft\quant\wrapper\data\WrpMatrixVolatilityTest.java'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,9 +19,9 @@
       <mask>*.gradle</mask>
       <mask>build.gradle</mask>
       <mask>*.sql</mask>
-      <mask>*.xml</mask>
       <mask>*.scala</mask>
       <mask>*.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
