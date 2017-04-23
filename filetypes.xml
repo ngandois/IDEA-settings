@@ -17,6 +17,7 @@
       <mapping pattern="release-notes" type="PLAIN_TEXT" />
       <mapping pattern="broker_viewer_ContextUnderlyingMember" type="PLAIN_TEXT" />
       <mapping pattern=".ignore" type="PLAIN_TEXT" />
+      <mapping pattern="B-small-practice" type="PLAIN_TEXT" />
       <mapping pattern="broker_viewer_LevelledMktSpreadRule" type="PLAIN_TEXT" />
       <mapping pattern="broker_viewer_CCSVolatility" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
