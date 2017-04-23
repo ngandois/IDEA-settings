@@ -27,6 +27,7 @@
       <mapping ext="tex" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="txt2" type="PLAIN_TEXT" />
       <mapping ext="rst" type="PLAIN_TEXT" />
       <mapping ext="execids" type="PLAIN_TEXT" />
     </extensionMap>
